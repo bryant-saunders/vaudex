@@ -58,6 +58,12 @@ service firebase.storage {
 ## Authentication
 You will need at least one user email/password combination configured in the Authentication menu
 
+# Dependencies and credits
+Vaudex uses the following libraries for core functionality,
+1. **Pico CSS (MIT):** https://picocss.com/
+2. **IDB-Keyval (APACHE 2.0):** https://github.com/jakearchibald/idb-keyval/tree/main
+3. **Google Fonts/Material Icons (OFL):** https://fonts.google.com/
+
 # Gallery
 <div class="grid" markdown>
   <img width="24%" height="auto" alt="image" src="https://github.com/user-attachments/assets/c2397035-7f2e-453d-b82e-4fbc59b80aad" />
